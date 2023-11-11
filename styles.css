@@ -28,7 +28,7 @@
   left: 0;
   width: 100%;
     text-align: center;
-    background: rgba(0, 0, 0, 0); /* Semi-transparent black background */
+    background: rgba(0, 0, 0, .4); /* Semi-transparent black background */
   color:rgb(121, 217, 255);
   padding: 10px;
   box-shadow: 0 4px 18px rgba(0, 0, 0, .2);
